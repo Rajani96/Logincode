@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login to Follett</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85a5ab38-8f47-4703-aca5-ffb3ea82d19f</testCaseGuid>
+   <variable>
+      <defaultValue>9939</defaultValue>
+      <description></description>
+      <id>47b9f909-94c9-4705-b489-be7ca7d97812</id>
+      <masked>false</masked>
+      <name>index</name>
+   </variable>
+</TestCaseEntity>
